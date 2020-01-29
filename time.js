@@ -1,0 +1,5 @@
+setInterval()   //
+clearInterval();
+
+setTimeout()
+clearTimeout();
